@@ -1,7 +1,8 @@
 # Grupo-de-trabajo-de-metodologías-y-herramientas.
 
+---
 Espacio donde se trasladará toda la información relativa al trabajo desarrollado por el grupo de trabajo Co-incidimos.
-
+---
 
 Entendemos la participación como aquellos procesos en los que diversos agentes se encuentran en igualdad de condiciones y que mediante un proceso de detección y reconocimiento, dialogan y debaten sobre intereses o necesidades comunes para, de forma colectiva y a través de la combinación de sus saberes diversos, encontrar formas conjuntas de abordar las problemáticas donde cada cual aporte tomando como referencia su propia experiencia y conocimiento.
 
