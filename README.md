@@ -10,7 +10,7 @@ Nuestro objetivo se centra en combinar dos tipos de participación, una es la pr
 
 Trabajar en ambas esferas de forma integral permite abrir la investigación y experimentación en el campo de la participación.
 
-Mediante el trabajo con grupos abiertos, basado en procesos de alfabetización digital enfocada a un empoderamiento ciudadano y técnico que promueva el desarrollo de procesos democráticos a través de herramientas (y no sólo por parte de aquellas personas que consideramos como activistas en red).
+Mediante el trabajo con grupos abiertos, basado en procesos de alfabetización digital enfocados a un empoderamiento ciudadano y técnico que promueva el desarrollo de procesos democráticos a través de herramientas (y no sólo por parte de aquellas personas que consideramos como activistas en red).
 
 El proceso ha constado de varias sesiones presenciales que buscan abordar desde una perspectiva teórico-práctica, de investigación e intervención, un desarrollo y categorización de los distintos tipos de procesos participativos identificados, y las distintas fases que componen cada uno de ellos, con las técnicas y herramientas asociadas que garanticen la consecución de sus objetivos. Para ello también se investigará y trabajará en torno a diferentes metodologías participativas y herramientas
 combinando la formación, el testeo, seguimiento y mejora de metodologías y técnicas de participación ciudadana. Se articularán actividades que apoyen y complementen a otras líneas de trabajo.
